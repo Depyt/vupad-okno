@@ -1,0 +1,26 @@
+.mn:hover>.btn {
+    display: block;
+}
+
+
+.btn {
+    text-decoration: none;
+    display: none;
+}
+
+.btn1{
+    display: block;
+    border: 1px solid black;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    border-radius: 3px;
+    width: 100px;
+    height: auto;
+    margin: 6px;
+    font-size: 20px;
+}
+
+.mn{
+    width: auto;
+}
